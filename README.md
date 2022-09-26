@@ -1,4 +1,5 @@
 # Predictive-CT-Scan-Imaging-Research
+Currently, patients undergo four different scans before a 3D image of the liver is obtained. The objective of the research is to use the data extracted from the available samples to develop a machine learning program which will predict 25%-50% of the CT volumes. If successful, this would allow for patients to be scanned fewer times resulting in reduced exposure to harmful radiations.​
 
 ## Tools  
 
